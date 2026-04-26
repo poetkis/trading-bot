@@ -14,6 +14,7 @@
 
 ## 폴더 구조
 
+```
 trading-bot/
 ├── strategy/
 │   └── v1_눌림목전략.md
@@ -22,8 +23,7 @@ trading-bot/
 ├── src/
 │   └── main.py
 └── README.md
-
----
+```
 
 ## 매매 시간
 
